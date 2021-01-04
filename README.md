@@ -5,18 +5,19 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 [![Run on Repl.it](https://repl.it/badge/github/arielahdoot/2101-FSA-NY-BCP-MO)](https://repl.it/github/arielahdoot/2101-FSA-NY-BCP-MO)
 
 ## Table of Contents
+
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
-2. [Loops And Debugging](#02-loops-and-debugging)
-3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-4. [Caesar Cypher](#04-caesar-cypher)
-5. [Scope](#05-scope)
-6. [Arrays I](#06-arrays-I)
-7. [Arrays II](#07-arrays-ii)
-8. [Sudoku Validator](#08-sudoku-validator)
-9. [Objects](#09-objects)
-10. [Recursion I](#10-recursion-i)
-11. [Recursion II](#11-recursion-ii)
-12. [Next Steps](#12-next-steps)
+<!-- 2. [Loops And Debugging](#02-loops-and-debugging)
+2. [Coercion And Truthiness](#03-coercion-and-truthiness)
+3. [Caesar Cypher](#04-caesar-cypher)
+4. [Scope](#05-scope)
+5. [Arrays I](#06-arrays-I)
+6. [Arrays II](#07-arrays-ii)
+7. [Sudoku Validator](#08-sudoku-validator)
+8. [Objects](#09-objects)
+9. [Recursion I](#10-recursion-i)
+10. [Recursion II](#11-recursion-ii)
+11. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
@@ -53,20 +54,18 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text) -->
 
 [Lecture Slides](00-slides/01-Introduction-and-Tidy-Code.pdf)
 
-<!--
 ### Notes
 
 [Full Notes](01-tidy-code)
 
 1. [Indenting](01-tidy-code/A-indenting.js)
 2. [Variable Names](01-tidy-code/B-variableNaming.js)
--->
 
-## **02 Loops And Debugging**
+<!-- ## **02 Loops And Debugging**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac571d2bd9f9e0004adb0a4/text)**
 
@@ -135,7 +134,6 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
-<!--
 ### Notes
 
 [Full Notes](05-arrays-I)
@@ -154,7 +152,6 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 12. [Array.slice()](05-arrays-I/L-array-slice.js)
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
--->
 
 ## **06 Arrays II**
 
@@ -177,8 +174,6 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ## **08 Sudoku Validator**
 
--->
-
 ## **09 Objects**
 
 **[Live Lecture](https://youtu.be/aLTP7hnIYFg)**
@@ -188,7 +183,6 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
-<!--
 #### Notes
 
 [Full Notes](09-objects)
@@ -227,7 +221,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-<!-- ### Notes
+### Notes
 
 [Full Notes](10-recursion-i)
 
@@ -236,7 +230,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 3. [Countdown](10-recursion-i/C-countdown.js)
 4. [Factorial](10-recursion-i/D-factorial.js)
 5. [Iterables](10-recursion-i/E-iterables.js)
-6. [Hints](10-recursion-i/F-hints.js) -->
+6. [Hints](10-recursion-i/F-hints.js)
 
 ## **11 Recursion II**
 
@@ -247,13 +241,13 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
 
 ### Notes
+
 [Full Notes](11-recursion-ii)
 
 1. [logsAnArray](11-recursion-ii/A-logsAnArray.js)
 2. [concatEls](11-recursion-ii/B-concatEls.js)
 3. [sumVals](11-recursion-ii/C-sumVals.js)
 
-## **Next Steps**
+## **12 Next Steps**
 
-**[Live Lecture](https://youtu.be/ymNBN2HWEso)**
-<!-- (14-next-steps) -->
+**[Live Lecture](https://youtu.be/ymNBN2HWEso)** -->
