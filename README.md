@@ -8,8 +8,8 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
-<!-- 2. [Coercion And Truthiness](#03-coercion-and-truthiness)
-3. [Caesar Cypher](#04-caesar-cypher)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+<!-- 4. [Caesar Cypher](#04-caesar-cypher)
 4. [Scope](#05-scope)
 5. [Arrays I](#06-arrays-I)
 6. [Arrays II](#07-arrays-ii)
@@ -71,11 +71,11 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Lecture Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-<!-- **[Live Lecture](https://youtu.be/MLkEERTsOXw)** -->
+**[Live Lecture](https://youtu.be/qhF2TLsMlDE)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
 ### Notes
 
@@ -87,17 +87,17 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 4. [Continue Keyword](02-loops-and-debugging/D-continue.js)
 5. [Break Keyword](02-loops-and-debugging/E-break.js)
 
-<!-- ## **03 Coercion and Truthiness**
+## **03 Coercion and Truthiness**
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-**[Live Lecture](https://youtu.be/jUEvVzlB6Cs)**
+<!-- **[Live Lecture](https://youtu.be/jUEvVzlB6Cs)** -->
 
-**[Live Solutions](https://youtu.be/ry2uQPvueek)**
+<!-- **[Live Solutions](https://youtu.be/ry2uQPvueek)** -->
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) -->
 
 ### Notes
 
@@ -111,7 +111,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
 
-## **04 Caesar Cypher**
+<!-- ## **04 Caesar Cypher**
 
 ## **05 Scope**
 
