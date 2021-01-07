@@ -91,13 +91,13 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-<!-- **[Live Lecture](https://youtu.be/jUEvVzlB6Cs)** -->
+**[Live Lecture](https://youtu.be/SCN73vKE5DY)**
 
-<!-- **[Live Solutions](https://youtu.be/ry2uQPvueek)** -->
+**[Live Solutions](https://youtu.be/ry2uQPvueek)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text) -->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 ### Notes
 
