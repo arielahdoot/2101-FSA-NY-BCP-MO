@@ -9,8 +9,8 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-<!-- 4. [Caesar Cypher](#04-caesar-cypher)
-4. [Scope](#05-scope)
+4. [Caesar Cypher](#04-caesar-cypher)
+<!-- 5. [Scope](#05-scope)
 5. [Arrays I](#06-arrays-I)
 6. [Arrays II](#07-arrays-ii)
 7. [Sudoku Validator](#08-sudoku-validator)
@@ -111,9 +111,11 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 6. [Boolean Coercion 3](03-coercion-and-truthiness/F-boolean-coercion-3.js)
 7. [Logical Operators](03-coercion-and-truthiness/G-logical-operators-1.js)
 
-<!-- ## **04 Caesar Cypher**
+## **04 Caesar Cypher**
 
-## **05 Scope**
+\*\*[Live Lecture](https://youtu.be/x-QNu7aMUR0)
+
+<!-- ## **05 Scope**
 
 **[Live Lecture](https://youtu.be/2O26y6wP8AM)**
 
