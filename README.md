@@ -113,7 +113,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ## **04 Caesar Cypher**
 
-\*\*[Live Lecture](https://youtu.be/x-QNu7aMUR0)
+**[Live Lecture](https://youtu.be/x-QNu7aMUR0)**
 
 <!-- ## **05 Scope**
 
