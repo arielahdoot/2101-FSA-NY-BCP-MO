@@ -115,11 +115,11 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 **[Live Lecture](https://youtu.be/x-QNu7aMUR0)**
 
-<!-- ## **05 Scope**
+## **05 Scope**
 
-**[Live Lecture](https://youtu.be/2O26y6wP8AM)**
+**[Live Lecture](https://youtu.be/KYuBlRTnG2A)**
 
-**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/VRGF_o7OGfA)**
+**[Scope Workshop Problems 4 & 5 Review](https://youtu.be/zxzapd17ThM)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
@@ -129,14 +129,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Full Notes](05-scope)
 
-1. [What is Scope?](05-scope/A-scope-is.js)
-2. [Global Scope](05-scope/B-globalscope.js)
-3. [Functional Scope](05-scope/C-func-scope.js)
-4. [Nested Functions & Functional Scope](05-scope/D-nestedfunc.js)
-5. [Block Scope](05-scope/E-blockscope.js)
-6. [Hoisting](05-scope/F-hoisting.js)
-7. [Best Practices](05-scope/G-bestpract.js)
-
+<!-- 
 ## **05 Arrays I**
 
 **[Live Lecture](https://youtu.be/uGxwiRRkVFs)**
@@ -262,4 +255,4 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ## **12 Next Steps**
 
-**[Live Lecture](https://youtu.be/ymNBN2HWEso)** -->
+**[Live Lecture](https://youtu.be/ymNBN2HWEso)** --> -->
