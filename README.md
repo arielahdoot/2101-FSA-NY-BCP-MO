@@ -255,4 +255,4 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ## **12 Next Steps**
 
-**[Live Lecture](https://youtu.be/ymNBN2HWEso)** --> -->
+**[Live Lecture](https://youtu.be/ymNBN2HWEso)** -->
