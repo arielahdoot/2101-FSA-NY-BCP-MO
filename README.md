@@ -130,7 +130,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Full Notes](05-scope)
 
-## **05 Arrays I**
+## **06 Arrays I**
 
 **[Live Lecture](https://youtu.be/pR7G-OdOvag)**
 
@@ -159,7 +159,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
- <!-- ## **06 Arrays II**
+ <!-- ## **07 Arrays II**
 
 **[Live Lecture](https://youtu.be/6UOpGWjxBHM)**
 
@@ -169,7 +169,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ### Notes
 
-[Full Notes](06-arrays-ii)
+[Full Notes](07-arrays-ii)
 
 1. [splice()](06-arrays-ii/Asplice.js)
 2. [join()](06-arrays-ii/B-join.js)
