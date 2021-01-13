@@ -129,10 +129,9 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Full Notes](05-scope)
 
-<!-- 
 ## **05 Arrays I**
 
-**[Live Lecture](https://youtu.be/uGxwiRRkVFs)**
+**[Live Lecture](https://youtu.be/pR7G-OdOvag)**
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
@@ -158,7 +157,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 13. [Array.includes()](05-arrays-I/M-array-includes.js)
 14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
 
-## **06 Arrays II**
+ <!-- ## **06 Arrays II**
 
 **[Live Lecture](https://youtu.be/6UOpGWjxBHM)**
 
