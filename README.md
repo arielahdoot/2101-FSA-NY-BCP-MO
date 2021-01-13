@@ -10,14 +10,15 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Caesar Cypher](#04-caesar-cypher)
-<!-- 5. [Scope](#05-scope)
-5. [Arrays I](#06-arrays-I)
-6. [Arrays II](#07-arrays-ii)
-7. [Sudoku Validator](#08-sudoku-validator)
-8. [Objects](#09-objects)
-9. [Recursion I](#10-recursion-i)
-10. [Recursion II](#11-recursion-ii)
-11. [Next Steps](#12-next-steps) -->
+5. [Scope](#05-scope)
+6. [Arrays I](#06-arrays-I)
+<!--
+7. [Arrays II](#07-arrays-ii)
+8. [Sudoku Validator](#08-sudoku-validator)
+9. [Objects](#09-objects)
+10. [Recursion I](#10-recursion-i)
+11. [Recursion II](#11-recursion-ii)
+12. [Next Steps](#12-next-steps) -->
 
 ## Additional Resources
 
