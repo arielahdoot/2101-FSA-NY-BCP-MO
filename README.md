@@ -133,6 +133,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 ## **05 Arrays I**
 
 **[Live Lecture](https://youtu.be/pR7G-OdOvag)**
+
 **[Live Solutions](https://youtu.be/tEVT4mS0-TQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
@@ -141,22 +142,22 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ### Notes
 
-[Full Notes](05-arrays-I)
+[Full Notes](06-arrays-I)
 
-1. [Array Definition](05-arrays-I/A-array-definition.js)
-2. [Typeof & Array.isArray()](05-arrays-I/B-typeof-isArray.js)
-3. [Bracket Access](05-arrays-I/C-bracket-access.js)
-4. [Bracket Assignment](05-arrays-I/D-br-assignment.js)
-5. [Array Looping](05-arrays-I/E-array-looping.js)
-6. [Array Length](05-arrays-I/F-array-length.js)
-7. [Array.push()](05-arrays-I/G-array-push.js)
-8. [Array.pop()](05-arrays-I/H-array-pop.js)
-9. [Array.shift()](05-arrays-I/I-array-shift.js)
-10. [Array.unshift()](05-arrays-I/J-array-unshift.js)
-11. [Array.indexOf()](05-arrays-I/K-array-indexof.js)
-12. [Array.slice()](05-arrays-I/L-array-slice.js)
-13. [Array.includes()](05-arrays-I/M-array-includes.js)
-14. [Array.reverse()](05-arrays-I/N-array-reverse.js)
+1. [Array Definition](06-arrays-I/A-array-definition.js)
+2. [Typeof & Array.isArray()](06-arrays-I/B-typeof-isArray.js)
+3. [Bracket Access](06-arrays-I/C-bracket-access.js)
+4. [Bracket Assignment](06-arrays-I/D-br-assignment.js)
+5. [Array Looping](06-arrays-I/E-array-looping.js)
+6. [Array Length](06-arrays-I/F-array-length.js)
+7. [Array.push()](06-arrays-I/G-array-push.js)
+8. [Array.pop()](06-arrays-I/H-array-pop.js)
+9. [Array.shift()](06-arrays-I/I-array-shift.js)
+10. [Array.unshift()](06-arrays-I/J-array-unshift.js)
+11. [Array.indexOf()](06-arrays-I/K-array-indexof.js)
+12. [Array.slice()](06-arrays-I/L-array-slice.js)
+13. [Array.includes()](06-arrays-I/M-array-includes.js)
+14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
  <!-- ## **06 Arrays II**
 
