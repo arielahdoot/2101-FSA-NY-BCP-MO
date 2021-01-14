@@ -159,26 +159,16 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
- <!-- ## **07 Arrays II**
+## **07 Arrays II**
 
-**[Live Lecture](https://youtu.be/6UOpGWjxBHM)**
+**[Live Lecture](https://youtu.be/oGj5EZMWA8E)**
+**[Review](https://youtu.be/Pur1E67XKaU)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-### Notes
-
-[Full Notes](07-arrays-ii)
-
-1. [splice()](06-arrays-ii/Asplice.js)
-2. [join()](06-arrays-ii/B-join.js)
-3. [concat()](06-arrays-ii/C-concat.js)
-4. [Nested Arrays](06-arrays-ii/D-nested-arrays.js)
-5. [Nested Looping](06-arrays-ii/E-nested-looping.js)
-6. [Grid](06-arrays-ii/F-grid.js)
-
-## **08 Sudoku Validator**
+<!-- ## **08 Sudoku Validator** 
 
 ## **09 Objects**
 
