@@ -12,9 +12,9 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
-<!--
 7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
+<!--
 9. [Objects](#09-objects)
 10. [Recursion I](#10-recursion-i)
 11. [Recursion II](#11-recursion-ii)
@@ -116,6 +116,10 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 **[Live Lecture](https://youtu.be/x-QNu7aMUR0)**
 
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+
 ## **05 Scope**
 
 **[Live Lecture](https://youtu.be/KYuBlRTnG2A)**
@@ -168,9 +172,15 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-<!-- ## **08 Sudoku Validator** 
+## **08 Sudoku Validator**
 
-## **09 Objects**
+**[Live Lecture](https://youtu.be/vFqApC0TPnM)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
+
+<!-- ## **09 Objects**
 
 **[Live Lecture](https://youtu.be/aLTP7hnIYFg)**
 **[Live Solutions](https://youtu.be/Cu9EIQcc8d4)**
