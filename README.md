@@ -26,6 +26,9 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 - [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
 - [Code Wars - Loops](https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&r%5B%5D=-7&tags=Loops) Practice more loops
 - [practice](https://www.codewars.com/users/MrZizoScream/authored)
+- [Pass By Value, Pass By Reference](https://youtu.be/Tq2362cRD3Y)
+- [Higher Order Functions I](https://youtu.be/FiEY_pb_cR0)
+- [Higher Order Functions II - Closure](https://youtu.be/pAtDHJs5bis)
 
 ## Code War Links:
 
@@ -218,6 +221,18 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 1. [What Are Methods](09-objects/L-whatisamethod.js)
 2. [Creating Methods](09-objects/M-createmethods.js)
 3. [this](09-objects/N-this.js)
+
+## **Pass By Value, Pass By Reference - Optional Advanced Lecture 1**
+
+**[Live Lecture](https://youtu.be/mCdJI9ItTZw)**
+**[Live Solutions](https://youtu.be/Cc0-vymjkPo)**
+
+## **Higher Order Functions I - Optional Advanced Lecture 2**
+**[Live Lecture](https://youtu.be/Q0d6Ti3Zbwo)**
+
+## **Higher Order Functions II - Optional Advanced Lecture 3**
+**[Live Lecture](https://youtu.be/Bj8MJ8q_Hd0)**
+**[Solutions](https://youtu.be/W4Cv02x3V5Q)**
 
 ## **10 Recursion I**
 
