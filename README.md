@@ -184,10 +184,10 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb2/text)
 
-<!-- ## **09 Objects**
+## **09 Objects**
 
-**[Live Lecture](https://youtu.be/aLTP7hnIYFg)**
-**[Live Solutions](https://youtu.be/Cu9EIQcc8d4)**
+**[Live Lecture](https://youtu.be/mv8ci9gIhbI)**
+**[Live Solutions](https://youtu.be/4wKGYLkzboc)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
@@ -197,19 +197,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Full Notes](09-objects)
 
-0. [Code Snippets](09-objects/A-code-snippets.js)
-1. [What is an Object](09-objects/B-what-is-an-object.js)
-2. [Create And Access](09-objects/C-create-and-access.js)
-3. [New Key-Value Pairs](09-objects/D-new-key-value-pairs.js)
-4. [Delete Key-Value Pairs](09-objects/E-delete-key-value-pairs.js)
-5. [In Operator](09-objects/F-in-operator.js)
-6. [For In Loop](09-objects/G-for-in-loop.js)
-7. [Object Methods](09-objects/H-object-methods.js)
-8. [Nested Arrays](09-objects/I-nested-arrays.js)
-9. [Nested Objects](09-objects/J-nested-object.js)
-10. [Animal Noises Review](09-objects/K-animal-noises-review.js)
-
-### **Object Methods**
+<!-- ### **Object Methods** 
 
 **[Live Lecture](https://youtu.be/pZ5Sm2yUfzo)**
 
