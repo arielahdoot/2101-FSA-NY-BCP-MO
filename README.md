@@ -225,7 +225,7 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ## **10 Recursion I**
 
-**[Live Lecture](https://youtu.be/RjmOtf-4ac0)**
+**[Live Lecture and Review](https://youtu.be/RjmOtf-4ac0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
