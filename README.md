@@ -221,28 +221,17 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 ## **Higher Order Functions II - Optional Advanced Lecture 3**
 **[Live Lecture](https://youtu.be/Bj8MJ8q_Hd0)**
-**[Solutions](https://youtu.be/W4Cv02x3V5Q)**
+**[Solutions](https://youtu.be/W4Cv02x3V5Q)** -->
 
 ## **10 Recursion I**
 
-**[Live Lecture](https://youtu.be/tC3TfaZALO0)**
+**[Live Lecture](https://youtu.be/RjmOtf-4ac0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-### Notes
-
-[Full Notes](10-recursion-i)
-
-1. [Definition of Recursion](10-recursion-i/A-definition.js)
-2. [The Call Stack](10-recursion-i/B-thecallstack.js)
-3. [Countdown](10-recursion-i/C-countdown.js)
-4. [Factorial](10-recursion-i/D-factorial.js)
-5. [Iterables](10-recursion-i/E-iterables.js)
-6. [Hints](10-recursion-i/F-hints.js)
-
-## **11 Recursion II**
+<!-- ## **11 Recursion II**
 
 **[Live Lecture](https://youtu.be/23UzIpHLM2Q)**
 
