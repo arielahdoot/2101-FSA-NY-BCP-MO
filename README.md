@@ -231,22 +231,14 @@ Hello! This is where Ariel and Noor will put all the material for BCP. If any of
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
 
-<!-- ## **11 Recursion II**
+## **11 Recursion II**
 
-**[Live Lecture](https://youtu.be/23UzIpHLM2Q)**
+**[Live Lecture](https://www.youtube.com/watch?v=E_Sfn-5wpQc&feature=youtu.be)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
 [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010)
 
-### Notes
-
-[Full Notes](11-recursion-ii)
-
-1. [logsAnArray](11-recursion-ii/A-logsAnArray.js)
-2. [concatEls](11-recursion-ii/B-concatEls.js)
-3. [sumVals](11-recursion-ii/C-sumVals.js)
-
 ## **12 Next Steps**
 
-**[Live Lecture](https://youtu.be/ymNBN2HWEso)** -->
+**[Live Lecture](https://youtu.be/kmBzXNX6Fmg)**
